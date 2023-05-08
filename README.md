@@ -1,6 +1,7 @@
 # TavernDiceCode
 
-This project is a Python simulation of a tabletop dice-rolling game "Stones and Bones" or Tavern Dice, which I developed
+This project is a Python simulation of a tabletop dice-rolling game "Stones and Bones" or Tavern Dice, 
+which I originally developed as part of a Georgia Tech graduate course ISYE6644 Simulation
 
 Key components:
 - Tavern Dice Simulation.ipynb is the main Jupyter notebook for running the simulation
